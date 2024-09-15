@@ -1,1 +1,1 @@
-bmw,hyundai,kia,toyota,acura,audi,honda,pontiac,lexus,infiniti
+bmw,audi,acura,honda,volkswagen,infiniti,cadillac,toyota,lexus,hyundai,price,sport,engine,performance,luxury,aspiration
